@@ -9,3 +9,5 @@ The dataset is a combination of two datasets from Kaggle. It consists of low qua
 
 ## Proposed Model
 
+![Slide1](https://user-images.githubusercontent.com/56185553/201461128-0db91ea0-53c9-43b1-9bb4-d356efd7c2aa.JPG)
+
