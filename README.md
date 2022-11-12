@@ -7,6 +7,8 @@ Crowd violence detection using deep learning and the explanation of the learning
 The dataset is a combination of two datasets from Kaggle. It consists of low quality CCTV footage of violence and non violence videos carried out by individuals in public. There are about 389 violence videos and 280 non violence videos. The shortest video is about 4 to 5 seconds long and the longest video is about 11 minutes long.
 
 https://www.kaggle.com/datasets/shreyj1729/cctv-fights-dataset
+
+
 https://www.kaggle.com/datasets/toluwaniaremu/smartcity-cctv-violence-detection-dataset-scvd
 
 
