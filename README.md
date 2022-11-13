@@ -17,3 +17,21 @@ https://www.kaggle.com/datasets/toluwaniaremu/smartcity-cctv-violence-detection-
 
 ![Slide1](https://user-images.githubusercontent.com/56185553/201461128-0db91ea0-53c9-43b1-9bb4-d356efd7c2aa.JPG)
 
+
+## CNN models used
+1. InceptionNetV3
+2. MobileNetV1
+3. ResNet50
+4. VGG16
+5. AlexNet
+
+## Comparison of Accuracy of all the models
+
+| Models   | Training Acc   | Validation Acc   | Testing Acc   |
+|----------|----------------|------------------|---------------|
+| VGG16    | 49%            | 37%              | 49%           |
+| InceptionNetV3    | 97%            | 94%              | 95%           |
+| MobileNetV1    | 99%            | 99%              | 99%           |
+| ResNet50    | 98%            | 94%              | 95%           |
+| AlexNet    | 99%            | 82%              | 77%           |
+| CNN+LSTM    | 100%            | 100%              | 100%           |
